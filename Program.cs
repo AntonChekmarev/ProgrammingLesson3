@@ -91,7 +91,7 @@ string MenuItemName(int number)
     if (number == 2) return "Задача № 19 HARD";
     if (number == 3) return "Задача № 21";
     if (number == 4) return "Задача № 21 HARD";
-    if (number == 5) return "ЗЗадача № 23";
+    if (number == 5) return "Задача № 23";
     else return "";
 }
 
